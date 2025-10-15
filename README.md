@@ -77,7 +77,7 @@
 
 **7. Navigation & Flow**
 1. Login Page: URL: /Account/Login  
-   - User enters credentials (dummy login: admin / 1234).  
+   - User enters credentials (dummy login: admin01 / admin@1234).  
    - If valid, session variable UserName is set.  
 2. Top Page: URL: /Top/Index  
    - Session checked via HttpContext.Session.GetString("UserName").  
