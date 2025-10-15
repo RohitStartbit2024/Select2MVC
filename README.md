@@ -1,4 +1,4 @@
-**Select2MVC Project Documentation**
+**Select2MVC**
 
 ---
 
